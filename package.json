@@ -28,6 +28,7 @@
   "dependencies": {
     "d3-dag": "^0.2.6",
     "d3-flextree": "^2.1.1",
+    "uuid": "^8.3.2",
     "victor": "^1.1.0"
   },
   "devDependencies": {
